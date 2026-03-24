@@ -32,7 +32,7 @@ Track apply status, auto email reminder after 7 days no response, basic analytic
 
 ### 💼 Experience
 
-**Back-end Fresher** @ Diko Vina Company Limited *(Jul – Nov 2025)*
+**Back-end Fresher** @ Diko Vina Company Limited *(Jul – Present)*
 Java, REST API, Agile/Scrum
 
 **Back-end Intern** @ FPT Information System *(Jan – Jun 2025)*
