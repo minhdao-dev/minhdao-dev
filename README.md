@@ -14,7 +14,7 @@ Software Engineer based in Ho Chi Minh City, Vietnam.
 ## Tech Stack
 
 **Languages:**
-Java · C/C++ · C# · Python · SQL
+Java · C/C++ · C# · Python · SQL · Rust
 
 **Frameworks & Libraries:**
 Spring Boot 3 · Spring Security · Spring Mail · Spring Scheduling · Hibernate/JPA · ASP.NET Core · Entity Framework · Thymeleaf
