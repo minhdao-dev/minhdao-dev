@@ -65,12 +65,6 @@ Agile/Scrum  ·  GitFlow  ·  Conventional Commits  ·  CI/CD Pipeline
 
 ---
 
-### Currently
-
-Working at Diko Vina as a Backend Developer. Building side projects with Spring Boot + Spring AI to explore AI-powered backend systems. Always open to interesting backend opportunities and technical conversations.
-
----
-
 <p>
   <a href="https://linkedin.com/in/dao-nguyen-minh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:daonguyenminh.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
