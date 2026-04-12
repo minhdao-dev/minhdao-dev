@@ -2,47 +2,51 @@
 
 **Backend Developer** · Ho Chi Minh City, Vietnam
 
----
-
-## About
-
-Backend developer with hands-on experience building production Java systems in outsourcing and enterprise environments. I care about clean architecture, meaningful abstractions, and code that future teammates can actually understand.
+Backend Developer at Diko Vina — building production systems with Java, Spring Boot, and PostgreSQL. Previously interned at FPT Information System on enterprise .NET projects. Also a Java & Python instructor at [FullHouseDev](https://fullhousedev.com/), which keeps me honest about writing code that's actually explainable. PTIT Engineering graduate.
 
 ---
 
-## Experience
+### Core Stack
 
-| | |
-|---|---|
-| **Back-end Developer** | Diko Vina · *Jul 2025 – Present* |
-| **Back-end Intern** (.NET / Enterprise) | FPT Information System (FPT IS) · *Jan 2025 – Apr 2025* |
-
----
-
-## Tech Stack
-
-**Languages** · Java · C# · SQL · Python
-
-**Backend** · Spring Boot 3 · Spring MVC · Spring Security · Hibernate/JPA · ASP.NET Core · Entity Framework
-
-**Database & Cache** · PostgreSQL · Redis · MySQL · SQL Server · MongoDB
-
-**DevOps** · GitHub Actions · Docker · Railway · Git · Maven
-
-**Frontend** · Thymeleaf · HTML/CSS · JavaScript · jQuery · Bootstrap
-
-**Practices** · SOLID · Design Patterns · Unit Testing · RFC 7807 · Agile/Scrum · REST API
+```
+Java 17+  ·  Spring Boot 3  ·  PostgreSQL  ·  Redis  ·  Docker  ·  Kafka
+```
 
 ---
 
-## Education
+### Skills
 
-**Engineer of Electronics & Telecommunications** · Posts and Telecommunications Institute of Technology (PTIT) · *Graduated 2025*
+**Java & JVM**
+Java 17+ · OOP · Collections Framework · Stream API · Lambda · Generics · Multithreading & Concurrency · Exception Handling · Record · Sealed Class · Pattern Matching · Virtual Threads (Loom)
+
+**Spring Ecosystem**
+Spring Boot 3 · Spring MVC · Spring Security (JWT / OAuth2) · Spring Data JPA · Spring Cloud (Gateway / Eureka / Config / Feign) · Spring AI · Spring WebSocket (STOMP) · Spring Cache · Spring Batch
+
+**Database & Persistence**
+PostgreSQL · MySQL · MongoDB · Redis · Hibernate/JPA · Flyway · Query Optimization · Transaction & Isolation Levels · Indexing Strategy
+
+**Messaging & Event-Driven**
+Apache Kafka · RabbitMQ · Event-Driven Architecture · Pub/Sub · Dead Letter Queue
+
+**API & Integration**
+REST API Design · GraphQL · Swagger/OpenAPI · WebSocket (STOMP) · SOAP/XML · gRPC · Consuming External APIs (WebClient / Feign)
+
+**Testing**
+JUnit 5 · Mockito · TestContainers · MockMvc · Integration Testing · TDD
+
+**Design & Architecture**
+SOLID · Design Patterns (Builder / Factory / Strategy / Observer / Template Method) · Clean Architecture · Layered Architecture · DTO & Mapper Pattern · Microservices · Saga Pattern · CQRS · Domain-Driven Design
+
+**DevOps & Cloud**
+Docker · Docker Compose · Kubernetes · GitHub Actions · Jenkins · CI/CD Pipeline · AWS (EC2 / RDS / S3) · Railway · Linux
+
+**Resilience & Observability**
+Resilience4j (Circuit Breaker / Retry / Rate Limiter) · Distributed Tracing (Sleuth / Zipkin) · ELK Stack · Prometheus · Grafana · SLF4J / Logback
+
+**Others**
+C# · ASP.NET Core · Entity Framework · Python · Thymeleaf · HTML/CSS · JavaScript · Agile/Scrum · Git (GitFlow / Conventional Commits)
 
 ---
-
-## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dao-nguyen-minh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daonguyenminh.it@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minhdao-dev)
