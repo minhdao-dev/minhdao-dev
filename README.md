@@ -1,6 +1,6 @@
 # Nguyen Minh Dao
 
-**Java Backend Developer** · Ho Chi Minh City, Vietnam
+**Backend Developer** · Ho Chi Minh City, Vietnam
 
 ---
 
@@ -8,15 +8,13 @@
 
 Backend developer with hands-on experience building production Java systems in outsourcing and enterprise environments. I care about clean architecture, meaningful abstractions, and code that future teammates can actually understand.
 
-Currently building [**Job Hunt Tracker**](https://github.com/minhdao-dev/job-hunt-tracker) — a full-stack job search management system with Spring Boot 3, PostgreSQL, Redis, and JWT hybrid auth. Deployed on Railway with GitHub Actions CI/CD.
-
 ---
 
 ## Experience
 
 | | |
 |---|---|
-| **Back-end Developer** | Diko Vina · *Jul 2025 – Mar 2026* |
+| **Back-end Developer** | Diko Vina · *Jul 2025 – Present* |
 | **Back-end Intern** (.NET / Enterprise) | FPT Information System (FPT IS) · *Jan 2025 – Apr 2025* |
 
 ---
@@ -37,32 +35,9 @@ Currently building [**Job Hunt Tracker**](https://github.com/minhdao-dev/job-hun
 
 ---
 
-## Projects
-
-### [Job Hunt Tracker](https://github.com/minhdao-dev/job-hunt-tracker)
-*Java 17 · Spring Boot 3 · PostgreSQL · Redis · Thymeleaf · Railway*
-
-A production-deployed web application for managing the entire job search lifecycle — applications, interviews, offers, and reminders in one place.
-
-**What's built:**
-- 8 backend modules with unit tests: Auth, Company, Job, Interview, Offer, Reminder, Stats, UserSettings
-- JWT Hybrid auth with Refresh Token Rotation, Redis-backed blacklist, OTP email flows
-- Rate limiting, soft delete, audit logging, RFC 7807 error responses throughout
-- CI/CD via GitHub Actions → auto-deploy to Railway
-
-**What's next:**
-- AI Resume Matcher — analyze JD and suggest CV improvements per role
-- AI Interview Coach — domain-specific Q&A based on personal interview history
-- Smart Follow-up Generator — personalized email drafts from interview notes
-- Job Market Insights — crawl ITViec/TopCV and surface skill & salary trends
-
----
-
 ## Education
 
-**Engineer of Electronics & Telecommunications** · Posts and Telecommunications Institute of Technology (PTIT) · *Graduated 2025* · GPA 3.1/4.0
-
-Thesis: Java application with relational database design — **9.4 / 10.0**
+**Engineer of Electronics & Telecommunications** · Posts and Telecommunications Institute of Technology (PTIT) · *Graduated 2025*
 
 ---
 
