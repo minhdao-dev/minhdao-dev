@@ -6,47 +6,73 @@ Backend Developer at Diko Vina — building production systems with Java, Spring
 
 ---
 
-### Core Stack
+### Tech Stack
 
-```
-Java 17+  ·  Spring Boot 3  ·  PostgreSQL  ·  Redis  ·  Docker  ·  Kafka
-```
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
-### Skills
+**Backend & Frameworks**
 
-**Java & JVM**
-Java 17+ · OOP · Collections Framework · Stream API · Lambda · Generics · Multithreading & Concurrency · Exception Handling · Record · Sealed Class · Pattern Matching · Virtual Threads (Loom)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Spring Ecosystem**
-Spring Boot 3 · Spring MVC · Spring Security (JWT / OAuth2) · Spring Data JPA · Spring Cloud (Gateway / Eureka / Config / Feign) · Spring AI · Spring WebSocket (STOMP) · Spring Cache · Spring Batch
+**Database & Cache**
 
-**Database & Persistence**
-PostgreSQL · MySQL · MongoDB · Redis · Hibernate/JPA · Flyway · Query Optimization · Transaction & Isolation Levels · Indexing Strategy
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Messaging & Event-Driven**
-Apache Kafka · RabbitMQ · Event-Driven Architecture · Pub/Sub · Dead Letter Queue
+**Messaging & Real-time**
 
-**API & Integration**
-REST API Design · GraphQL · Swagger/OpenAPI · WebSocket (STOMP) · SOAP/XML · gRPC · Consuming External APIs (WebClient / Feign)
-
-**Testing**
-JUnit 5 · Mockito · TestContainers · MockMvc · Integration Testing · TDD
-
-**Design & Architecture**
-SOLID · Design Patterns (Builder / Factory / Strategy / Observer / Template Method) · Clean Architecture · Layered Architecture · DTO & Mapper Pattern · Microservices · Saga Pattern · CQRS · Domain-Driven Design
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket/STOMP-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **DevOps & Cloud**
-Docker · Docker Compose · Kubernetes · GitHub Actions · Jenkins · CI/CD Pipeline · AWS (EC2 / RDS / S3) · Railway · Linux
 
-**Resilience & Observability**
-Resilience4j (Circuit Breaker / Retry / Rate Limiter) · Distributed Tracing (Sleuth / Zipkin) · ELK Stack · Prometheus · Grafana · SLF4J / Logback
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Others**
-C# · ASP.NET Core · Entity Framework · Python · Thymeleaf · HTML/CSS · JavaScript · Agile/Scrum · Git (GitFlow / Conventional Commits)
+**Testing**
+
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+![TestContainers](https://img.shields.io/badge/TestContainers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dao-nguyen-minh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daonguyenminh.it@gmail.com)
+### Architecture & Practices
+
+```
+Microservices  ·  Event-Driven Architecture  ·  Saga Pattern  ·  REST API Design
+SOLID  ·  Design Patterns  ·  Clean Architecture  ·  Layered Architecture
+Circuit Breaker (Resilience4j)  ·  Distributed Tracing (Sleuth + Zipkin)
+Flyway Migration  ·  Swagger/OpenAPI  ·  SOAP/XML Integration
+Agile/Scrum  ·  GitFlow  ·  Conventional Commits  ·  CI/CD Pipeline
+```
+
+---
+
+### Currently
+
+Working at Diko Vina as a Backend Developer. Building side projects with Spring Boot + Spring AI to explore AI-powered backend systems. Always open to interesting backend opportunities and technical conversations.
+
+---
+
+<p>
+  <a href="https://linkedin.com/in/dao-nguyen-minh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:daonguyenminh.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://github.com/minhdao-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
