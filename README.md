@@ -2,7 +2,7 @@
 
 **Backend Developer** · Ho Chi Minh City, Vietnam
 
-Backend Developer at Diko Vina — building production systems with Java, Spring Boot, and PostgreSQL. Previously interned at FPT Information System on enterprise .NET projects. Also a Java & Python instructor at [FullHouseDev](https://fullhousedev.com/), which keeps me honest about writing code that's actually explainable. PTIT Engineering graduate.
+Backend Developer at Diko Vina — building production systems with Java, Spring Framework. Previously interned at FPT Information System on enterprise .NET projects. Also a Java & Python instructor at [FullHouseDev](https://fullhousedev.com/), which keeps me honest about writing code that's actually explainable. PTIT Engineering graduate.
 
 ---
 
