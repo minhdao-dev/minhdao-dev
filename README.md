@@ -2,11 +2,10 @@
 
 **Backend Developer & Instructor** · Ho Chi Minh City, Vietnam
 
-Backend Developer at Diko Vina, building production systems with Java and Spring Framework.
-Previously interned at FPT Information System on enterprise .NET projects.
-Java & Python Instructor at [FullHouseDev](https://fullhousedev.com/).
-B.Eng. in Electronic and Telecommunication Engineering (IoT Systems),
-Posts and Telecommunications Institute of Technology (PTIT) · Class of 2025.
+Backend Developer at Diko Vina, building production systems with Java and Spring Framework.<br>
+Previously interned at FPT Information System on enterprise .NET projects.<br>
+Java & Python Instructor at [FullHouseDev](https://fullhousedev.com/).<br>
+B.Eng. in Electronic and Telecommunication Engineering (IoT Systems), Posts and Telecommunications Institute of Technology (PTIT) · Class of 2025.
 
 ---
 
@@ -50,12 +49,21 @@ Posts and Telecommunications Institute of Technology (PTIT) · Class of 2025.
 
 ### Concepts & Practices
 
-```
-Microservices  ·  REST API Design  ·  Event-Driven Architecture  ·  Saga Pattern
-SOLID  ·  Clean Architecture  ·  Design Patterns  ·  Layered Architecture
-CI/CD Pipeline  ·  Agile/Scrum  ·  GitFlow  ·  Conventional Commits
-Swagger/OpenAPI  ·  Flyway Migration  ·  Circuit Breaker  ·  Distributed Tracing
-```
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat-square)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-231F20?style=flat-square&logoColor=white)
+![REST API Design](https://img.shields.io/badge/REST_API_Design-0096D6?style=flat-square)
+![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-7F77DD?style=flat-square)
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-BA7517?style=flat-square)
+![Distributed Tracing](https://img.shields.io/badge/Distributed_Tracing-185FA5?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-444441?style=flat-square&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-444441?style=flat-square&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-444441?style=flat-square&logoColor=white)
+![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD_Pipeline-2088FF?style=flat-square)
+![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=flat-square)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square)
+![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logoColor=black)
+![Flyway Migration](https://img.shields.io/badge/Flyway_Migration-CC0200?style=flat-square)
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-FE5196?style=flat-square)
 
 ---
 
